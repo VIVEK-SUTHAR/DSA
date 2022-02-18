@@ -163,9 +163,8 @@ int main()
         root = Tree.insert(root, data);
     }
     Tree.preorder(root);
-    cout<<endl;
+    cout << endl;
     Tree.inorder(root);
-    cout<<endl;
+    cout << endl;
     Tree.postorder(root);
-    
 }
