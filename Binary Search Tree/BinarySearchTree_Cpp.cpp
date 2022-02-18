@@ -1,14 +1,14 @@
 #include <bits/stdc++.h>
 using namespace std;
 /*-----------Tree Node class----
-    CLASS MEMERS:
+    CLASS MEMBERS:
 
     Data-value you want to add in data;
     Node* left:Points to left childern in tree
     Node* right:Points to right childern in tree
 
     CONSTRUCTORS:
-    Node()->takes data
+    Node()->takes data input
     Constructs a new Node with data d and left and right pointers as NULL;
 
 --*/
