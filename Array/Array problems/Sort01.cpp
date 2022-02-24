@@ -47,3 +47,5 @@ int main(void)
     sortone(arr, n);
     printArray(arr, n);
 }
+
+// Author Vivek Suthar
